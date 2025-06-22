@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Sensitive credentials
+.env
+
+# Large data files
+telegram_data.csv
+labeled_data.txt 
+labeled_telegram_product_price_location.txt
+scraping_session.session
+photos/
